@@ -1,70 +1,36 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# day 1 react code with harry 1st part 
+downloaded some coool extension in vs code like 
+1- Thunder client - its a type of postman and hoppscotch of vs code 
+2 - ejs7 
+3 -prettier
+# day 1 react code with harry 2nd part 
+1 - leaarned about the core react.js setup 
+# day1 react code with harry 3rd part
+1 - learned about how to create our app in react using create-react-app
+<!-- we can also create this basics setup by our own but this will not be much worth taking  -->
+npm package manager
+command - npx create-react-app my-app
+understanding strcuture in react app
+functional based component and classs based component 
+app is a component 
+index.js is a entry point 
+app.js will render on screeen 
+# day1 react code with harry 4th part
+js refresher in which we have 
+revised some basics concept of java script for react starting 
+# day1 react code with harry 5th part
+rules for jsx 
+1st = 1. Return a single root element 
+2. Close all the tags 
+3. camelCase all most of the things! 
+fragment in react and div for 1st rule 
+# codde is compilled by babel
+# day1 react code with harry 6th part
+react js is a single page application 
+only once the html css and java script is comed from the server 
+then whole responsibility was of yur java script 
+node mosules can be download by using npm install
+then made a simple navbar using bootstarp and react
+1st step added link file aand style with index.html
+then copied the  code from bootstarp and added to app.js and then correcting syntax for jsx by using ctrl +f and replacing all elemnt in jsx
+<!-- donw this till yet -->
